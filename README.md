@@ -1,2 +1,2 @@
 # Concatenador_PDF
-Esse código serve para concatenar os Arquivos PDF da página de arquivos
+Esse código serve para concatenar os Arquivos PDF da pasta de arquivos do projeto.
